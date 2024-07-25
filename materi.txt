@@ -1,0 +1,18 @@
+class
+-> blueprint / template untuk membuat instance dari object
+-> class itu mendefinisikan object
+-> Menyimpan data dan perilaku yang disebut dengan property dan method
+
+membuat class
+-> Diawali dengan menuliskan keyword class, diikuti nama dan dibatasi dengan {} untuk menyimpan property dan method
+-> aturan penamaan class sama seperti variable
+(tidak boleh diawali angka dan tidak boleh spasi)
+
+
+object
+-> instance yang didefinisikan oleh class
+-> banyak object dibuat menggunakan satu class
+-> object dibuat dengan menggunakan keyword new
+
+property
+-> variable yang ada di dalam object
