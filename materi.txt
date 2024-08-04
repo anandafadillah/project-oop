@@ -16,3 +16,15 @@ object
 
 property
 -> variable yang ada di dalam object
+
+Visibility
+-> konsep yang di gunakan untuk mengatur akses dari property dan method pada sebuah object
+-> Ada 3 keyword di dalam Visibility :public, protected, dan private
+-> Public = dapat digunakan dimana saja diluar maupun di dalam class
+-> protected = hanya dapat digunakan di dalam sebuah kelas beserta turunannya
+->private = hanya dapat di gunakan di dalam sebuah kelas tertentu saja
+
+Kegunaannya
+-> supaya kita hanya memperlihatkan aspek dari class yang dibutuhkan oleh client
+-> menentukan kebutuhan yang jelas dari sebuah object
+-> memberikan kendali pada kode untuk menghindari 'Bug'
